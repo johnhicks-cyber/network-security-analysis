@@ -15,3 +15,9 @@
 
 ## Outcome
 Improved understanding of secure network design.
+
+## Skills Demonstrated
+- Risk Assessment
+- NIST RMF
+- Vulnerability Analysis
+- Security Monitoring
